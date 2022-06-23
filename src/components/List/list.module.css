@@ -1,0 +1,15 @@
+.list {
+  overflow: auto;
+  flex: 1 1 1px;
+  position: relative;
+}
+
+.element {
+  position: absolute;
+  left: 0;
+}
+
+.after {
+  position: absolute;
+  left: 0;
+}
